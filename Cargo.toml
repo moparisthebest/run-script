@@ -1,0 +1,8 @@
+[package]
+name = "run-script"
+version = "0.0.1"
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.6"
+anyhow = "1.0"
